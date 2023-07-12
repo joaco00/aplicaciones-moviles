@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SeguroApp</string>
+    <string name="edt_marca">Ingrese Marca</string>
+    <string name="edt_modelo">Ingrese Modelo</string>
+    <string name="edt_anio">Ingrese Año</string>
+    <string name="btn_calcular">Calcular</string>
+
+    <string name="btn_volver">Volver</string>
+
+</resources>

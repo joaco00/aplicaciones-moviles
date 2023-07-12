@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741856795350",
+    "project_id": "pruebainacap171",
+    "storage_bucket": "pruebainacap171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741856795350:android:5989c2352e9c0345ca8777",
+        "android_client_info": {
+          "package_name": "cl.inacap.pruebaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741856795350-p3rabh0su0hij9uh8aeicraclcairr7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCzhXT3ptJWacNGY7ubgjdbwpWDmx1zUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741856795350-p3rabh0su0hij9uh8aeicraclcairr7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RentacarApp</string>
+
+    <string name="txv_titulo">Registro de vehiculo</string>
+    <string name="hdn_id">ID</string>
+    <string name="hdn_fecha">Fecha</string>
+    <string name="hdn_patente">Patente</string>
+    <string-array name="spn_estado">
+        <item>Sin observación</item>
+        <item>Con observación</item>
+    </string-array>
+    <string name="hdn_comentario">Comentario</string>
+    <string name="btn_regristrar">Registrar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_actualizar">Actualizar</string>
+
+
+</resources>

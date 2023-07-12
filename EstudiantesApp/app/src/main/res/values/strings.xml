@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EstudiantesApp</string>
+
+    <string name="txv_titulo">Registro de Estudiantes</string>
+
+    <string name="hdn_nombres">Ingresa los nombres</string>
+    <string name="hdn_apellidos">Ingresa los apellidos</string>
+    <string name="hdn_carrera">Ingresa la carrera</string>
+    <string name="hdn_edad">Ingresa la edad</string>
+
+    <string-array name="spn_estado">
+        <item>Activo</item>
+        <item>Inactivo</item>
+    </string-array>
+
+
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_listar">Listar</string>
+</resources>

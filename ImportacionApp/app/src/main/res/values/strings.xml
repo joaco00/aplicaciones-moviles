@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ImportacionApp</string>
+    <string name="hdn_cantidad">Ingresa la cantidad</string>
+    <string name="hdn_costo">Ingresa el costo unitario (USD)</string>
+    <string name="hdn_envio">Ingresa el valor del envío (USD)</string>
+    <string name="hdn_nombre">Ingresa el nombre del producto</string>
+    <string name="hdn_codigo">Ingresa el código del producto</string>
+    <string name="hdn_proveedor">Ingresa nombre del proveedor</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_listar">Listar</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="btn_volver">Volver</string>
+    <string name="txv_titulo">Datos de la compra</string>
+
+</resources>

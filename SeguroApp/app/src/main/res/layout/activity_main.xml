@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="20dp">
+
+    <ImageView
+        android:src="@drawable/car_128x128"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"   />
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:text="SeguroApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    android:textSize="30dp"
+    android:gravity="center_horizontal"/>
+    <EditText
+        android:id="@+id/edt_marca"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/edt_marca"/>
+    <EditText
+        android:id="@+id/edt_modelo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/edt_modelo"/>
+    <EditText
+        android:id="@+id/edt_anio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="@string/edt_anio"/>
+    <Button
+        android:id="@+id/btn_calcular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_calcular"/>
+
+</LinearLayout>

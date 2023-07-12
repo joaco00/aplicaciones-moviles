@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    android:layout_margin="20dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:src="@drawable/student_128x128"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/txv_titulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txv_titulo"
+        android:textColor="#000000"
+        android:textSize="30sp"
+        android:background="#FFEB3B"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="50dp"/>
+
+    <EditText
+        android:id="@+id/edt_nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:hint="@string/hdn_nombres"/>
+    <EditText
+        android:id="@+id/edt_apellido"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:hint="@string/hdn_apellidos"/>
+    <EditText
+        android:id="@+id/edt_edad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hdn_edad"/>
+    <EditText
+        android:id="@+id/edt_carrera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hdn_carrera"/>
+    <Spinner
+        android:id="@+id/spn_estado"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <Button
+        android:id="@+id/btn_registrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:backgroundTint="#DC3434"
+        android:text="@string/btn_registrar" />
+
+    <Button
+        android:id="@+id/btn_listar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#4CAF50"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/btn_listar" />
+    <TextView
+        android:id="@+id/txv_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

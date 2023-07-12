@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439319159539",
+    "project_id": "inacapestudiante171",
+    "storage_bucket": "inacapestudiante171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439319159539:android:ce53b2b5f65a4be3004d86",
+        "android_client_info": {
+          "package_name": "cl.inacaptemuco.estudiantesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439319159539-17m7dp7p1cpokh5k5b78mr7e1chnj000.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzMRgN8fEBM_R23ajQlktCAQUM-qBEwc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439319159539-17m7dp7p1cpokh5k5b78mr7e1chnj000.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
